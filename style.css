@@ -140,3 +140,13 @@ margin: 0px 0px 0px 200px;
 
 
 }
+
+
+@media only screen and (max-width: 500px) {
+
+
+    img {max-height: auto; max-width: 400px;}
+
+
+
+}
