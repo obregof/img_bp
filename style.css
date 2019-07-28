@@ -6,7 +6,7 @@ ul {
   padding: 10 0 0 10;
 }
 
-img {max-height: 500px; max-width: auto;}
+img {max-height: auto; max-width: 750px;}
 
 
 /* DROPDOWN MENU */
@@ -133,6 +133,8 @@ margin: 0px 0px 0px 200px;
 .container {
 
   flex-wrap: wrap;
+  align-content: center;
+
 
 }
 
