@@ -108,7 +108,7 @@ color:#f1f1f1;
 
 @media only screen and (max-width: 800px) {
 
-
+  img {max-width:100%;}
 
 .item {
   padding: 10px 0px 10px 0px;
@@ -137,16 +137,6 @@ margin: 0px 0px 0px 200px;
 
 
 }
-
-
-}
-
-
-@media only screen and (max-width: 500px) {
-
-
-  img {max-width:100%;}
-
 
 
 }
